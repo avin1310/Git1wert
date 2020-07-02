@@ -1,1 +1,2 @@
 This is the first text for git 
+And now its the second line 
